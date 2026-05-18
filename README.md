@@ -1,10 +1,13 @@
 [Readme_V2.txt](https://github.com/user-attachments/files/27942783/Readme_V2.txt)
+
 My first KSP plugin, please provide feedback!
+
 If anyone is interested in collaborating on the models/art, let me know!
 
 The plasma magnet (invented by John Slough et al.) is a clever way to make a really light magnetic sail that can ride the solar wind. It maintains a near-constant force for a given "airspeed", regardless of distance from the sun. A further refinement by Jeff Greason is the q-drive, harvesting energy from the plasma magnet and powering electric drives that permit the vehicle to do more than sail directly away from the sun. This mod allows you to do both.
 
 How To:
+
 -It appears in the part list as "QCOR-1 Plasmadasmadyne", under Engine. Shares the model with the 2.5m SAS
 
 -Enable/disable with the button "Plasma Magnet"
@@ -19,6 +22,7 @@ How To:
 
 -The plasma magnet will provide EC in proportion to the current drag force, if at least two magnets are active on the craft
 
+
 Things that are known not to work:
 
 -Does not work in non-physics timewarp
@@ -26,6 +30,7 @@ Things that are known not to work:
 -Not fully integrated into the tech tree, should unlock with Experimental Electrics
 
 -No attempt has been made to balance the ElectricCharge output within the context of KSP yet, it's just raw 1kW=1EC/s. 
+
 
 Caveats
 
