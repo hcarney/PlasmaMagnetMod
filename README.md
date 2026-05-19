@@ -4,7 +4,7 @@ My first KSP plugin, please provide feedback!
 
 If anyone is interested in collaborating on the models/art, let me know!
 
-The plasma magnet (invented by John Slough et al.) is a clever way to make a really light magnetic sail that can ride the solar wind. It maintains a near-constant force for a given "airspeed", regardless of distance from the sun. A further refinement by Jeff Greason is the q-drive, harvesting energy from the plasma magnet and powering electric drives that permit the vehicle to do more than sail directly away from the sun. This mod allows you to do both.
+The plasma magnet (invented by John Slough et al.) is a clever way to make a really light magnetic sail that can ride the solar wind. It maintains a near-constant force for a given "airspeed", regardless of distance from the sun. A further refinement by Jeff Greason is the q-drive, harvesting energy from the plasma magnet and powering electric drives that permit the vehicle to do more than sail directly away from the sun. This mod allows you to do both. Learn more here: https://www.centauri-dreams.org/2017/12/29/the-plasma-magnet-drive-a-simple-cheap-drive-for-the-solar-system-and-beyond/
 
 How To:
 
