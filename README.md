@@ -8,7 +8,7 @@ The plasma magnet (invented by John Slough et al.) is a clever way to make a rea
 
 How To:
 
--It appears in the part list as "QCOR-1 Plasmadasmadyne", under Engine. Shares the model with the 2.5m SAS
+-It appears in the part list as "QCOR-1 Plasmadasmadyne", under Engine. Shares the model with the 1.25m SAS
 
 -Enable/disable with the button "Plasma Magnet"
 
