@@ -34,7 +34,7 @@ Things that are known not to work:
 
 Caveats
 
--Not tested to work with any other mods, yet. I don't anticipate any particular problems, but it's not impossible.
+-Not tested to work with any other mods, yet. The only anticipated interaction is with Restock, as it alters the filepath I'm currently using for the 2.5m SAS model. You can overcome this by changing the "model=..." line in plasmaMagnet1.cfg
 
 -Drag is realistic (and quite low), increase by enabling JEB MODE (at your own peril)
 
